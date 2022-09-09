@@ -10,8 +10,8 @@ ref) https://www.kaggle.com/competitions/ml-olympiad-gdscuiz-and-tfugagadir/over
 
 
 #### memo
-* word embedding
--> 순서를 그대로 두고
--> 단어 하나하나를 벡터화시킴
--> ∴순서가 존재할 수 있는것
--> DL 자연어 처리 모델 전단계에서 사용한다
+* word embedding </br>
+-> 순서를 그대로 두고 </br>
+-> 단어 하나하나를 벡터화시킴 </br>
+-> ∴순서가 존재할 수 있는것 </br>
+-> DL 자연어 처리 모델 전단계에서 사용한다 </br>
