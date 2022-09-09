@@ -7,3 +7,11 @@ However, it is difficult to perform this task without comparing the DNA of this 
 The participants will have to create models to classify the genome sequences of Human vs Gorilla based on their genome sequence.
 
 ref) https://www.kaggle.com/competitions/ml-olympiad-gdscuiz-and-tfugagadir/overview
+
+
+#### memo
+* word embedding
+-> 순서를 그대로 두고
+-> 단어 하나하나를 벡터화시킴
+-> ∴순서가 존재할 수 있는것
+-> DL 자연어 처리 모델 전단계에서 사용한다
